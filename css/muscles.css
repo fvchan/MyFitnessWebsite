@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Baloo+Tammudu|Josefin+Sans');
+.navbar-default .navbar-nav > li > a:hover {
+    color: white;
+}
+
+
+.navbar-default .navbar-nav > li > a {
+	
+}
+
+.b-top > a > p {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	padding: 5px;
+	background-color: rgba(198, 202, 209, 0.3);
+}
+
+
+.navbar-inverse .navbar-nav > li > a:hover {
+	background-color: green;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+    color: #fff;
+    background-color: green;
+}
+
+
+body {
+	background-color: #fff;
+}
+
+.navbar > .container-fluid {
+	background-color: #000;
+}
+
+.input-group {
+	max-width: 300px;
+
+}
+
+#myNavbar {
+	padding: 10px;
+}
+
+
+div.well ul li {
+	list-style-type: none;
+}
+
+.pb-center {
+	text-align: center;
+}
+
+img[alt^="se"] {
+	
+
+	
+}
+
+.img-muscle {
+	display: inline-block;
+	max-width: 100%;
+	height: auto;
+}
+
+body {
+	font-family: 'Playfair Display', serif !important;
+}
+
+
+div.page-header h1 {
+	font-family: 'Baloo Tammudu', cursive !important;
+}

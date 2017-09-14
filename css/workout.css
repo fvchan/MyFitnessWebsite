@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: white;
+}
+
+
+.navbar-default .navbar-nav > li > a {
+	
+}
+
+.b-top > a > p {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	padding: 5px;
+	background-color: rgba(198, 202, 209, 0.3);
+}
+
+
+.navbar-inverse .navbar-nav > li > a:hover {
+	background-color: green;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+    color: #fff;
+    background-color: green;
+}
+
+
+body {
+	background-color: #fff;
+}
+
+.navbar > .container-fluid {
+	background-color: #000;
+}
+
+.input-group {
+	max-width: 300px;
+
+}
+
+#active {
+	background-color: white;
+
+}
+
+#myNavbar {
+	padding: 10px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: white;
+}
+
+.front-m {
+	margin: 0 auto;	
+	margin-bottom: 15px;
+}
+
+.front-m, map area{
+    outline: none;
+}
+
+.image_map {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
